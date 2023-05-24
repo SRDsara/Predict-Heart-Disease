@@ -1,0 +1,3 @@
+# Predict-Heart-Disease
+The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD) using logistic regression.
+ The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes. Data Source References: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
